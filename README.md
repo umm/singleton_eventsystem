@@ -9,7 +9,7 @@
 # Install
 
 ```shell
-$ npm install @umm/singleton_eventsystem
+$ npm install github:umm-projects/singleton_eventsystem.git
 ```
 
 # Usage
