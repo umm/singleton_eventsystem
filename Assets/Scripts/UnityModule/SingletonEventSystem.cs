@@ -7,8 +7,10 @@ namespace UnityModule {
 
         private void Start() {
             if (FindObjectOfType<EventSystem>() == default(EventSystem)) {
-                this.gameObject.AddComponent<EventSystem>();
-                this.gameObject.AddComponent<StandaloneInputModule>();
+                GameObject go = new GameObject(this.GetType().Name);
+                go.AddComponent<EventSystem>();
+                go.AddComponent<StandaloneInputModule>();
+                DontDestroyOnLoad(go);
             }
         }
 
