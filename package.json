@@ -1,6 +1,6 @@
 {
   "name": "@umm/singleton_eventsystem",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Provide automatic installation EventSystem as Singleton",
   "homepage": "https://github.com/umm-projects/singleton_eventsystem",
   "bugs": {
