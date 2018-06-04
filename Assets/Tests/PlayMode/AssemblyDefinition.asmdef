@@ -1,0 +1,12 @@
+{
+    "name": "Tests.PlayMode",
+    "references": [
+        "umm@singleton_eventsystem"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
