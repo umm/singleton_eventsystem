@@ -2,9 +2,9 @@
   "name": "@umm/singleton_eventsystem",
   "version": "1.2.0",
   "description": "Provide automatic installation EventSystem as Singleton",
-  "homepage": "https://github.com/umm-projects/singleton_eventsystem",
+  "homepage": "https://github.com/umm/singleton_eventsystem",
   "bugs": {
-    "url": "https://github.com/umm-projects/singleton_eventsystem/issues"
+    "url": "https://github.com/umm/singleton_eventsystem/issues"
   },
   "scripts": {
     "umm:init": "umm-init",
@@ -22,14 +22,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:umm-projects/singleton_eventsystem"
+    "url": "git@github.com:umm/singleton_eventsystem"
   },
   "files": [
     "Assets",
     "scripts"
   ],
   "dependencies": {
-    "@umm/scripts": "umm-projects/scripts#^1.0.0"
+    "@umm/scripts": "umm/scripts#^1.0.0"
   },
   "devDependencies": {},
   "optionalDependencies": {}
