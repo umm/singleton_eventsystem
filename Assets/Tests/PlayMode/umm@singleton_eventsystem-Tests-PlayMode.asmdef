@@ -1,5 +1,5 @@
 {
-    "name": "Tests.PlayMode",
+    "name": "umm@singleton_eventsystem-Tests-PlayMode",
     "references": [
         "umm@singleton_eventsystem"
     ],
